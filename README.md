@@ -3,7 +3,7 @@ In Monaco, the driver who starts at the front, usually finishes at the front.
 
 # Monaco GP F1 Race Analysis (2006–2020)
 
-![Monaco GP](images/Monaco GP.png)
+![Monaco GP](https://github.com/KlarenceKPIs/monaco-f1-race-analysis/blob/main/Monaco%20GP.png)
 
 ## Overview
 
