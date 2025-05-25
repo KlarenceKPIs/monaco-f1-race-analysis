@@ -25,7 +25,7 @@ Using Python (Pandas, Seaborn), SQL queries, and Power BI visualizations, the an
 - Starting grid position strongly correlates with finishing position  
 - Most drivers finish near their starting position, but weather and incidents can cause changes  
 - Position changes distribution shows the unpredictability in certain races  
-![Graphs]https://github.com/KlarenceKPIs/monaco-f1-race-analysis/blob/main/Images/2x2%20grid.png
+![Graphs Preview](https://github.com/KlarenceKPIs/monaco-f1-race-analysis/blob/main/Images/2x2%20grid.png)
 ---
 
 ## Tools & Libraries
