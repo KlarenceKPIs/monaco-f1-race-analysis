@@ -16,7 +16,7 @@ Using Python (Pandas, Seaborn), SQL queries, and Power BI visualizations, the an
 ## Contents
 
 - `monaco_f1_analysis.ipynb` — Jupyter Notebook with data cleaning, analysis, and visualization  
-- `data/` — Raw and processed datasets (if permitted)  
+- `dataset/` — Raw and processed datasets
 - `images/` — Charts and visuals exported from analysis  
 
 ---
@@ -29,20 +29,6 @@ Using Python (Pandas, Seaborn), SQL queries, and Power BI visualizations, the an
 - Position changes distribution shows the unpredictability in certain races  
 
 ---
-
-## How to Run
-
-1. Clone this repo:  
-```bash
-git clone https://github.com/yourusername/monaco-f1-race-analysis.git
-
-2. Install required Python packages:
-```bash
-pip install -r requirements.txt
-
-3. Open and run the Jupyter Notebook:
-```bash
-jupyter notebook monaco_f1_analysis.ipynb
 
 ## Tools & Libraries
 Python (Pandas, Seaborn, Matplotlib)
